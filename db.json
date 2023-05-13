@@ -4,60 +4,70 @@
       "id": 1,
       "title": "Blue T-shirt",
       "price": 19.99,
+      "quantity": 1,
       "image": "https://unblast.com/wp-content/uploads/2019/08/Square-Boxes-Mockup-4.jpg"
     },
     {
       "id": 2,
       "title": "Red Sneakers",
       "price": 49.99,
+      "quantity": 1,
       "image": "https://unblast.com/wp-content/uploads/2019/08/Square-Boxes-Mockup-4.jpg"
     },
     {
       "id": 3,
       "title": "Black Jeans",
       "price": 39.99,
+      "quantity": 1,
       "image": "https://unblast.com/wp-content/uploads/2019/08/Square-Boxes-Mockup-4.jpg"
     },
     {
       "id": 4,
       "title": "White Dress",
       "price": 59.99,
+      "quantity": 1,
       "image": "https://unblast.com/wp-content/uploads/2019/08/Square-Boxes-Mockup-4.jpg"
     },
     {
       "id": 5,
       "title": "Leather Wallet",
       "price": 29.99,
+      "quantity": 1,
       "image": "https://unblast.com/wp-content/uploads/2019/08/Square-Boxes-Mockup-4.jpg"
     },
     {
       "id": 6,
       "title": "Silver Watch",
       "price": 99.99,
+      "quantity": 1,
       "image": "https://unblast.com/wp-content/uploads/2019/08/Square-Boxes-Mockup-4.jpg"
     },
     {
       "id": 7,
       "title": "Blue Backpack",
       "price": 79.99,
+      "quantity": 1,
       "image": "https://unblast.com/wp-content/uploads/2019/08/Square-Boxes-Mockup-4.jpg"
     },
     {
       "id": 8,
       "title": "Wireless Headphones",
       "price": 89.99,
+      "quantity": 1,
       "image": "https://unblast.com/wp-content/uploads/2019/08/Square-Boxes-Mockup-4.jpg"
     },
     {
       "id": 9,
       "title": "Smartphone Case",
       "price": 19.99,
+      "quantity": 1,
       "image": "https://unblast.com/wp-content/uploads/2019/08/Square-Boxes-Mockup-4.jpg"
     },
     {
       "id": 10,
       "title": "Designer Sunglasses",
       "price": 129.99,
+      "quantity": 1,
       "image": "https://unblast.com/wp-content/uploads/2019/08/Square-Boxes-Mockup-4.jpg"
     }
   ]
